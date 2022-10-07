@@ -1,0 +1,4 @@
+AuthType Basic
+AuthName "Member Only"
+AuthUserFile F:/xampp/htdocs/Main/private/.htpasswd
+require valid-user
